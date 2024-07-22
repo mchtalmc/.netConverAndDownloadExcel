@@ -1,0 +1,6 @@
+@GenerateDownloadExcel_HostAddress = http://localhost:5206
+
+GET {{GenerateDownloadExcel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
